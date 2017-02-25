@@ -25,7 +25,9 @@
             android:layout_height="60dp"
             android:layout_below="@id/img_view_id"
             android:layout_centerInParent="true"
-            android:background="@drawable/rounded_button"/>
+            android:background="@drawable/rounded_button"
+            android:id="@+id/btn_play_stop"
+            android:text="Play"/>
     </RelativeLayout>
 
 </RelativeLayout>
